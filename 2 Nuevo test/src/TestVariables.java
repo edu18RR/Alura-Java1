@@ -1,4 +1,4 @@
-public class TVariables1 {
+public class TestVariables {
 
     public static void main(String [] args){
 
